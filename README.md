@@ -47,7 +47,7 @@ I'm a 3rd-year student pursuing a 🎓 Computer Science Bachelor's degree at **U
 ### 🔥 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OddDuckkk&layout=compact&theme=tokyonight)
 
+---
 
 ### Other
-![Profile Views](https://komarev.com/ghpvc/?username=OddDuckkk)
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31ghxwtqrr65siy2mlvai5trh2bq&unique={true|1|on|yes})
